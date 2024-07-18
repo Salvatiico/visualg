@@ -1,4 +1,4 @@
-algoritmo "Média"
+algoritmo "farenrraiti"
 var
       far, cel: real
 inicio
@@ -6,7 +6,7 @@ inicio
       Leia (far)
 
       cel <- (far - 32) * 5/9
-      escreval("Sua temperatura em celsius é: ", cel)
+      escreval("Sua temperatura em celsius Ã©: ", cel)
 
 
 fimalgoritmo
